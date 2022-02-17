@@ -1,0 +1,9 @@
+p {
+  font-family: Lato;
+}
+.container {
+  background-color: blue;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
